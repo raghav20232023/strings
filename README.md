@@ -32,9 +32,41 @@ Take an array of strings input from the user and find the cumulative (combined) 
 
 source code:
 
-
+![image](https://github.com/raghav20232023/strings/assets/153320363/98d6949f-9252-430e-8233-e85d98668631)
 
 output : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/63d66f9d-461f-48c9-aa6e-14633bc5bcdd)
+
+**3. stringBasicOperations :**
+
+Demonstrate basic operations on strings.
+
+source code :
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/d3561f2d-0956-4f30-96ea-0d04f8b5a763)
+
+output : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/df3bdc7d-6008-471b-90f6-34d657193014)
+
+**4. stringReplaceEToI :**
+
+Input a new string from the user. Create a new string called "result" in which letter 'e' in the original string will be replaced with letter 'i'
+
+source code : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/dab542d7-eaac-4655-80f8-25cbdd4042ff)
+
+output : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/c1f000ff-60d2-4a35-a4a8-742bdbbbe198)
+
+
+
+
+
+
 
 
 
