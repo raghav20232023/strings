@@ -62,6 +62,34 @@ output :
 
 ![image](https://github.com/raghav20232023/strings/assets/153320363/c1f000ff-60d2-4a35-a4a8-742bdbbbe198)
 
+**5. subString :**
+
+Create a substring i.e. a smaller string from a given larger string
+
+source code : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/71e1ed7c-28d1-49a3-b635-4d5e7aba9ff3)
+
+output : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/c5d659e5-aeab-4be4-bcf9-665c2c1525f4)
+
+**6. usernameFromEmail :**
+
+source code : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/b31080e4-a071-48cd-a43c-599a26c9e505)
+
+output : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/10be6718-0e2e-44fe-9937-029dc071b84b)
+
+end 
+
+
+
+
+
 
 
 
