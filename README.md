@@ -84,7 +84,19 @@ output :
 
 ![image](https://github.com/raghav20232023/strings/assets/153320363/10be6718-0e2e-44fe-9937-029dc071b84b)
 
-end 
+**7. integerToString :**
+
+Input an integer from the user and convert it to string and print its length.
+
+source code : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/6d4ba16e-a45c-48e4-a486-0816c5562205)
+
+output : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/6dae5960-29ed-493d-9f66-9fabf331e453)
+
+
 
 
 
