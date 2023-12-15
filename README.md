@@ -96,8 +96,19 @@ output :
 
 ![image](https://github.com/raghav20232023/strings/assets/153320363/6dae5960-29ed-493d-9f66-9fabf331e453)
 
+**8. stringToInteger :**
 
+Input an integer string and convert it to integer.
 
+source code :
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/b32754cd-5f7d-4468-9ef5-29f85e88055c)
+
+output : 
+
+![image](https://github.com/raghav20232023/strings/assets/153320363/a5b6fdf2-d278-4ce8-89c9-a2e269eef351)
+
+end 
 
 
 
